@@ -16,9 +16,9 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-<p>
-I’m <b>Zain Ali</b>, a passionate <b>Backend Developer</b> from Pakistan 🇵🇰, currently pursuing a  
-<b>Master’s degree in Software Engineering in Germany 🇩🇪</b>.
+<p align="center">
+I’m <b>Zain Ali</b>, a passionate <b>Backend Developer</b> from Pakistan 🇵🇰,<br>
+currently pursuing a <b>Master’s degree in Software Engineering in Germany 🇩🇪</b>.
 </p>
 
 - 🎓 Master’s Student in **Software Engineering (Germany)**
