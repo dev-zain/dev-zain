@@ -26,7 +26,7 @@ I’m <b>Zain Ali</b>, a passionate <b>Backend Developer</b> from Pakistan 🇵�
 - 🐍 Working mainly with **Python & Django**
 - 📊 Interested in **Databases, Scalable Systems & Clean Architecture**
 - 🌱 Continuously improving **Data Structures & Problem Solving**
-- 📬 Contact: **ibrahimkhan35821@gmail.com**
+- 📬 Contact: **zainali.programmer@gmail.com**
 
 ---
 
