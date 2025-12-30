@@ -50,13 +50,23 @@ currently pursuing a <b>Master’s degree in Software Engineering in Germany �
 <!-- GitHub Stats -->
 ## 📈 GitHub Analytics
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-zain&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-zain&theme=github-dark-blue&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dev-zain&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=dev-zain&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zain&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zain&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
