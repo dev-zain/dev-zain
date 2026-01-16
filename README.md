@@ -49,20 +49,30 @@ motto: "First, solve the problem. Then, write the code."
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
-<!-- Using github-readme-stats with cache busting -->
+<!-- GitHub Profile Summary Cards - More reliable -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-zain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=6" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-zain&theme=tokyonight" alt="Profile Details" width="100%"/>
 </p>
 
-<!-- GitHub Streak Stats - Using streak-stats.demolab.com -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-zain&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-zain&theme=tokyonight" alt="Repos per Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-zain&theme=tokyonight" alt="Most Commit Language" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-zain&theme=tokyonight" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-zain&theme=tokyonight&utcOffset=1" alt="Productive Time" height="180"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-zain&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true&area_color=36BCF7" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-zain&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true&area_color=36BCF7" width="100%" alt="Activity Graph"/>
+</p>
+
+<!-- Contribution Stats using shields.io -->
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/dev-zain/dev-zain?style=for-the-badge&color=36BCF7&labelColor=1a1b27&label=Monthly%20Commits" alt="Monthly Commits"/>
+  <img src="https://img.shields.io/github/last-commit/dev-zain/dev-zain?style=for-the-badge&color=36BCF7&labelColor=1a1b27&label=Last%20Commit" alt="Last Commit"/>
 </p>
 
 ---
