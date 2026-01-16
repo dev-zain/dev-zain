@@ -1,12 +1,9 @@
-<!-- Hero Section with Animated Header -->
+<!-- Hero Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zain%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Python%20%26%20Django%20Specialist&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Zain+Ali" alt="Typing SVG" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎓+Master's+in+Software+Engineering+(Germany);🐍+Python+%26+Django+Backend+Developer;⚡+Building+Scalable+%26+Clean+Systems" alt="Typing SVG" />
-</p>
+<h3 align="center">🎓 Master's Student in Software Engineering (Germany) | 🐍 Python & Django Backend Developer</h3>
 
 <!-- Profile Badges -->
 <p align="center">
@@ -14,8 +11,8 @@
     <img src="https://img.shields.io/github/followers/dev-zain?label=Followers&style=for-the-badge&logo=github&color=36BCF7&labelColor=1a1b27" alt="GitHub Followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=dev-zain&label=Profile%20Views&color=36BCF7&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
-  <a href="mailto:zainali.programmer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-36BCF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email"/>
+  <a href="https://web-production-750fc.up.railway.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-36BCF7?style=for-the-badge&labelColor=1a1b27" alt="Portfolio"/>
   </a>
 </p>
 
@@ -54,15 +51,18 @@ motto: "First, solve the problem. Then, write the code."
 ---
 
 <!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
   <a href="https://github.com/dev-zain">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-zain&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=36BCF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-zain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
   </a>
-  <a href="https://github.com/dev-zain">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-zain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=dev-zain&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=36BCF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -177,7 +177,7 @@ motto: "First, solve the problem. Then, write the code."
   <a href="https://github.com/dev-zain">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_WEBSITE">
+  <a href="https://web-production-750fc.up.railway.app/">
     <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -193,26 +193,9 @@ motto: "First, solve the problem. Then, write the code."
 
 ---
 
-<!-- Contribution Snake -->
-## 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
----
-
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-36BCF7?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
 
 <p align="center">
