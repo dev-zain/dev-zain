@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Zain%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20•%20Python%20%26%20Django&descAlignY=55&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&text=Zain%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Python%20and%20Django&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🎓+Master's+in+Software+Engineering+%7C+Germany;🐍+Building+Scalable+Backend+Systems;☕+Clean+Code+Enthusiast)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Master's+in+Software+Engineering+|+Germany;Building+Scalable+Backend+Systems;Clean+Code+Enthusiast" alt="Typing SVG"/>
+</a>
 
 <!-- Profile Badges -->
 <p>
