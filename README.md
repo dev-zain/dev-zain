@@ -61,7 +61,7 @@ motto: "First, solve the problem. Then, write the code."
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-zain&theme=tokyonight" alt="Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-zain&theme=tokyonight&utcOffset=1" alt="Productive Time" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-zain&theme=tokyonight&utcOffset=1" alt="Productive Time (CET)" height="180"/>
 </p>
 
 <!-- Activity Graph -->
