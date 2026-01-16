@@ -25,8 +25,6 @@
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=6" width="320"/>
-
 ```yaml
 name: Zain Ali
 location: Germany 🇩🇪 | Originally from Pakistan 🇵🇰
@@ -46,40 +44,25 @@ passion:
 motto: "First, solve the problem. Then, write the code."
 ```
 
-<br clear="both"/>
-
 ---
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
+<!-- Using github-readme-stats with cache busting -->
 <p align="center">
-  <a href="https://github.com/dev-zain">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-zain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-zain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=6" alt="Top Languages" height="180"/>
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats - Using streak-stats.demolab.com -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dev-zain&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=36BCF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=dev-zain&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <a href="https://github.com/dev-zain">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-zain&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true&area_color=36BCF7" width="98%" alt="Activity Graph"/>
-  </a>
-</p>
-
----
-
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-zain&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-zain&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true&area_color=36BCF7" width="98%" alt="Activity Graph"/>
 </p>
 
 ---
@@ -178,7 +161,7 @@ motto: "First, solve the problem. Then, write the code."
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://web-production-750fc.up.railway.app/">
-    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
